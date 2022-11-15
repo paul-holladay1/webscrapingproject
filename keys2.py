@@ -1,0 +1,2 @@
+accountSID = 'AC001942db309063a2938c06b836ca7769'
+authToken = '2dc97cde18467a9ce5e7509a8e394217'
