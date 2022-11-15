@@ -4,7 +4,7 @@ import openpyxl as xl
 from openpyxl.styles import Font
 
 url = 'https://crypto.com/price'
-# Request in case 404 Forbidden error
+
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3'}
 
 
